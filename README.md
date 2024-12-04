@@ -1,8 +1,6 @@
 # NeurIPS 2024: RAGraph: A General Retrieval-Augmented Graph Learning Framework
 
-Welcome to the official GitHub repository for RAGraph (Retrieval-Augmented Graph Learning Framework)!
-
-This is the official code for paper: **RAGraph: A General Retrieval-Augmented Graph Learning Framework** ([https://arxiv.org/abs/2408.09199](https://arxiv.org/abs/2410.23855))
+Welcome to the official GitHub repository for paper: **RAGraph: A General Retrieval-Augmented Graph Learning Framework** ([https://arxiv.org/abs/2408.09199](https://arxiv.org/abs/2410.23855))
 
 
 ## Overview
