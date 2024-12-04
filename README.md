@@ -16,7 +16,7 @@ Graph Neural Networks (GNNs) have become essential in interpreting relational da
 
 
 ## Contact
-For any questions or suggestions, please contact (Rihong Qiu:rihongqiu@stu.pku.edu.cn) and (Xinke Jiang:xinkejiang@stu.pku.edu.cn).
+For any questions or suggestions, please contact [Rihong Qiu](rihongqiu@stu.pku.edu.cn) and [Xinke Jiang](xinkejiang@stu.pku.edu.cn).
 
 ## Citation
 ```tex
