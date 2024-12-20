@@ -1,3 +1,1 @@
-# RAGraph Edge
-
-This part will release soon.
+This part of our project is based on the exceptional work [GraphPro](https://github.com/HKUDS/GraphPro). We are immensely grateful for their contributions to the field, which have significantly propelled our project forward.
