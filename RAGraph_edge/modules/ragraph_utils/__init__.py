@@ -1,4 +1,4 @@
-from .TaskDecoder import TaskDecoder
+# from .TaskDecoder import TaskDecoder
 from .Propagation import Propagation
 # from .ToyGraphBase import ToyGraphBase
 from .SimilarityFunctions import SimilarityFunctions
